@@ -1,1 +1,48 @@
 
+
+
+th {
+    border: 2px solid #000000;
+    background-color: darkturquoise;
+  }
+  
+table {
+    text-align: left;
+    margin: 20px auto;
+    padding: 5px;
+    border-radius: 10px;
+    
+  }
+  
+td {
+    border: 2px solid #8c6b48;
+    background-color: azure;
+    width: 500px;
+  }
+
+  td.left {
+    width: 150px;
+    text-align: center;
+    font-family: monospace;
+    background-color: rgb(43, 49, 49);
+    color: rgb(218, 83, 83);
+  }
+
+  th{
+      text-align: center;
+      padding: 5px;
+  }
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: chocolate;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(22, 153, 33);
+    text-align: center; 
+}
+
